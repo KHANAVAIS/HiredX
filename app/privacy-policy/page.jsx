@@ -400,7 +400,7 @@ const page = () => {
         If you have any questions about this Privacy Policy, You can contact us:
       </p>
       <ul>
-        <li>By email: pratikpp2302@gmail.com</li>
+        <li>By email: owaishashmat123@gmail.com</li>
       </ul>
     </div>
   );

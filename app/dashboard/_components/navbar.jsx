@@ -41,7 +41,7 @@ const Navbar = () => {
             height={25}
             className="rounded-md"
           />
-          InterviewAI
+          HiredX
         </Link>
 
         {/* Desktop Navigation */}
